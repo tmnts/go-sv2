@@ -2,7 +2,9 @@
 
 **Golang implementation of the Stratum v2 Mining Protocol.**
 
-An efficient, type-safe, and tested library for building next-generation Bitcoin mining infrastructure. Born from a mix of low-level audio engineering (VST/C++) vibes and high-precision financial math.
+* Implementing a Go-based version of the Stratum v2 mining protocol with focus on networking, concurrency and protocol structure.
+
+* Exploring binary message handling, protocol layering and performance-oriented architecture in distributed systems context.
 
 ## 🚀 Status: Early Alpha
 Current progress: **Handshake Lifecycle Completed**
