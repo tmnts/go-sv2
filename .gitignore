@@ -1,0 +1,20 @@
+# Бинарники
+bin/
+out/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Зависимости (Go скачает их сам через go.mod)
+vendor/
+
+# Логи и временные файлы
+*.log
+.DS_Store
+.env
+
+# Специфично для VS Code
+.vscode/
